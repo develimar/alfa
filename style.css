@@ -1337,7 +1337,7 @@ input,textarea {
 }
 .button-editavel {
 	 display: inline-block;
-	 background-color: #FFF;
+	 /*background-color: #FFF;*/
 	 font-size: 13px;
 	 font-weight: bold;
 	 padding: 5px 30px;
