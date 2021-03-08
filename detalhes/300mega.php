@@ -33,14 +33,14 @@
         <div class="row">
             <div class="sections-title">
                 <div class="sections-title-h3"><h3>Detalhe da oferta</h3></div>
-                <p>Fibra: 300 Mega <br>R$ 99,90/mês.</p>
+                <p>Fibra: 300 Mega - Fidelidade 12 Meses <br>R$ 99,90/mês.</p>
             </div><!-- End sections-title -->
         </div><!-- End row -->
 
         <div class="row">
             <div class="sections-title">
-                <div class="sections-title-h3"><h3>Desconto de R$ 99,90</h3></div>
-                <p>Plano mensal reduzido em R$ 199,80/mês.<br> O desconto é válido por tempo indeterminado.</p>
+                <div class="sections-title-h3"><h3>Desconto de 50%</h3></div>
+                <p>O desconto é válido por tempo indeterminado.<br> Sujeito a Analise de Crédito.</p>
             </div><!-- End sections-title -->
         </div><!-- End row -->
 
@@ -69,7 +69,7 @@
         <div class="row">
             <div class="sections-title">
                 <div class="sections-title-h3"><h3>1 ano de fidelidade</h3></div>
-                <p>Caso cancele antes, haverá uma multa rescisória proporcional ao restante do período. Conheça as ofertas sem fidelidade</p>
+                <p>Caso cancele antes, haverá uma multa rescisória proporcional ao restante do período.</p>
             </div><!-- End sections-title -->
         </div><!-- End row -->
 

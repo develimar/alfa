@@ -705,7 +705,7 @@
                             <div class="section-title section-title-2"><h6>Informações de Contato :</h6></div>
                             <div class="contact-information">
                                 <ul>
-<!--                                    <li>Av: Prefeito Alberto Moura - 1169 - Lj 01 Bairro: Nova Cidade | Sete Lagoas - MG</li>-->
+                                    <li>Atenidmento via Home Office</li>
                                     <li>Tel: 31 3774-2622 | 31 97167-0705</li>
                                     <li>E-mail: contato@alfainternet.com.br</li>
                                 </ul>
