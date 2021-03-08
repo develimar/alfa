@@ -705,7 +705,7 @@
                             <div class="section-title section-title-2"><h6>Informações de Contato :</h6></div>
                             <div class="contact-information">
                                 <ul>
-                                    <li>Av: Prefeito Alberto Moura - 1169 - Lj 01 Bairro: Nova Cidade | Sete Lagoas - MG</li>
+<!--                                    <li>Av: Prefeito Alberto Moura - 1169 - Lj 01 Bairro: Nova Cidade | Sete Lagoas - MG</li>-->
                                     <li>Tel: 31 3774-2622 | 31 97167-0705</li>
                                     <li>E-mail: contato@alfainternet.com.br</li>
                                 </ul>
@@ -723,7 +723,7 @@
                 </div><!-- End main-content -->
             </div><!-- End row -->
         </div><!-- End container -->
-        <div class="contact-iframe"><iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Av.%20Pref.%20Alberto%20Moura%2C%2012719-12839%20-%20Alex%20Paiva%2CSete%20Lagoas%20-%20MG&key=AIzaSyCJ68hnR2AeLSZMVJwwn3cw5UFZa0nHUQQ" allowfullscreen></iframe></div>
+<!--        <div class="contact-iframe"><iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Av.%20Pref.%20Alberto%20Moura%2C%2012719-12839%20-%20Alex%20Paiva%2CSete%20Lagoas%20-%20MG&key=AIzaSyCJ68hnR2AeLSZMVJwwn3cw5UFZa0nHUQQ" allowfullscreen></iframe></div>-->
     </div><!-- End sections -->
 
 <!--    <footer id="footer">-->
