@@ -68,7 +68,7 @@
                     <li><a href="#contact_us" onMouseOver="this.style.color='#0A9FD8'" onMouseOut="this.style.color='#171717'" style="font-size: 13px; font-weight: bold">CONTATO</a></li>
                 </ul>
             </nav><!-- End navigation -->
-            <div class="load-more-projects"><a class="button-editavel" href="https://central.alfainternet.com.br/central_assinante_web/" target="_blank"><strong>CENTRAL DO ASSINANTE</strong></a></div></a>
+            <div class="load-more-projects respon"><a class="button-editavel" href="https://central.alfainternet.com.br/central_assinante_web/" target="_blank"><strong>CENTRAL DO ASSINANTE</strong></a></div></a>
         </div><!-- End container -->
     </header><!-- End header -->
 

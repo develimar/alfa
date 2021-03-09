@@ -295,7 +295,8 @@
 	.phone-email {
 		float: none;
 		display: inline-block;
-		margin-bottom: 20px;
+		margin-bottom: 10px;
+		font-size: 9px;
 	}
 	#header-top .social-ul {
 		float: none;
@@ -423,6 +424,7 @@
 		line-height: 22px;
 	}
 	.navigation-footer {
+		font-size: x-small;
 		float: none;
 		text-align: center;
 	}
@@ -443,6 +445,18 @@
 
 	.box-icon {
 		margin-bottom: 30px;
+	}
+	.respon {
+		background-color: #0bb586;
+	}
+	.respon:hover {
+		background-color: #669e25;
+	}
+	.respon > a {
+		color: #FFFFFF;
+	}
+	.respon > a:hover {
+		color: #FFFFFF;
 	}
 }
 /*------------------------------------------------------------------------------*/
