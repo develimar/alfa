@@ -33,21 +33,21 @@
         <div class="row">
             <div class="sections-title">
                 <div class="sections-title-h3"><h3>Detalhe da oferta</h3></div>
-                <p>Fibra: 300 Mega - Fidelidade 12 Meses <br>R$ 99,90/mês.</p>
+                <p>Fibra: 300 Mega <br>R$ 99,90/mês - Fidelidade 12 Meses</p>
             </div><!-- End sections-title -->
         </div><!-- End row -->
 
-        <div class="row">
-            <div class="sections-title">
-                <div class="sections-title-h3"><h3>Desconto de 50%</h3></div>
-                <p>O desconto é válido por tempo indeterminado.<br> Sujeito a Analise de Crédito.</p>
-            </div><!-- End sections-title -->
-        </div><!-- End row -->
+<!--        <div class="row">-->
+<!--            <div class="sections-title">-->
+<!--                <div class="sections-title-h3"><h3>Desconto de 50%</h3></div>-->
+<!--                <p>O desconto é válido por tempo indeterminado.</p>-->
+<!--            </div>-->
+<!--        </div>-->
 
         <div class="row">
             <div class="sections-title">
                 <div class="sections-title-h3"><h3>Taxa de instalação</h3></div>
-                <p>A oferta escolhida possui instalação grátis.</p>
+                <p>A oferta escolhida possui instalação grátis.<br> Sujeito a Analise de Crédito.</p>
             </div><!-- End sections-title -->
         </div><!-- End row -->
 

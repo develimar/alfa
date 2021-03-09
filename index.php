@@ -705,7 +705,7 @@
                             <div class="section-title section-title-2"><h6>Informações de Contato :</h6></div>
                             <div class="contact-information">
                                 <ul>
-                                    <li>Atenidmento via Home Office</li>
+                                    <li>Atendimento via Home Office</li>
                                     <li>Tel: 31 3774-2622 | 31 97167-0705</li>
                                     <li>E-mail: contato@alfainternet.com.br</li>
                                 </ul>
@@ -714,7 +714,7 @@
                             <ul class="business-hours">
                                 <li>Segunda – Sábado : 09:00 ás 18:00</li>
 <!--                                <li>Sábado : 09:00 ás 13:00</li>-->
-                                <li>Domingo : Fechado</li>
+                                <li>Domingos e Feriados : Fechado</li>
                             </ul>
                         </div>
                     </div><!-- End row -->
